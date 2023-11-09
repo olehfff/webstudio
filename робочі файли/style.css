@@ -1,0 +1,171 @@
+header{
+    background-color: white;
+    display: flex;
+    height: 58px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.WebStudio{
+    margin-right: 184px;
+}
+.studio{
+    margin-right: 149px;
+    text-decoration: none;
+    color: blue;
+}
+.portfilo{
+    margin-right: 103px;
+    text-decoration: none;
+}
+.contact{
+    margin-right: 69px;
+    text-decoration: none;
+}
+.infodevstudio-com{
+    margin-right: 20px;
+    text-decoration: none;
+}
+.number-of-fone{
+    margin-left: 39px;
+    text-decoration: none;
+}
+.biznes{
+    background-image: url(/картинки/Img.png);
+    height: 602px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    width: 310px;
+}
+button{
+    background-color: blue;
+    height: 48px;
+    margin-left: 92px;
+    color: white;
+}
+.dad-of-card{
+    display: flex;
+}
+.dad-of-card2{
+    display: flex;
+    height: 294px;
+    justify-content: space-around;
+}
+.card1{
+    background-image: url(/картинки/img\(1\).png);
+    width: 369px;
+}
+.card2{
+    background-image: url(/картинки/img\(2\).png);
+    width: 369px;
+}
+.card3{
+    background-image: url(/картинки/img3.png);
+    width: 369px;
+}
+.p-1{
+    color: white;
+    font-size: 19px;
+}
+.div1{
+    background-color: rgba(4, 3, 10, 0.514);
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    margin-top: 240px;
+}
+
+    
+.wat-are-we-doing{
+    text-align: center;
+}
+.our-team{
+    text-align: center;
+    background-color: aliceblue;
+    margin-bottom: 0px;
+}
+.dad-of-card3{
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+}
+.applications{
+    display: flex;
+    margin-left: 63px;
+}
+.team{
+    width: 270px;
+}
+.p-2{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.dad-of-card4{
+    display: flex;
+    justify-content: space-around;
+}
+.clients{
+    text-align: center;
+}
+.Vector{
+    border-style: solid;
+    border-color: gray;
+    border-radius: 4px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+}
+.applications2{
+    display: flex;
+}
+.p-3{
+    color: white;
+
+}
+.p-4{
+    color: black;
+}
+.welcome-to-us1{
+    color: white;
+}
+.p-5{
+    color: black;
+    margin: 0px;
+    width: 0px;
+}
+.welcome-to-us2{
+    color: white;
+}
+.e-mail-input img{
+    position: absolute;
+    z-index: 1;
+    right: 9%;
+    bottom: -177%;
+} 
+.e-mail-input button{
+    margin-left: 12px;
+    width: 200px;
+}
+input{
+    color: black;
+    background-color: gray;
+    height: 36px;
+    border: solid;
+    border-radius: 4px;
+}
+.hellow{
+    display: none;
+}
+.active{
+    display: block;
+}
